@@ -1,3 +1,3 @@
 # deakin-mlds.github.io
-My personal homepage https://deakin-mlds.github.io
+The Deakin Machine Learning for Decision Making Group homepage: https://deakin-mlds.github.io
 
