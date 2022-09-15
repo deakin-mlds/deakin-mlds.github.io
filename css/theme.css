@@ -567,5 +567,10 @@ ul.sponsors {
     background:rgba(157,52,99,0.7);    
 }
 .rounded-circle {
-	border-radius: 50%!important
+	border-radius: 50%!important;
+    position: relative;          /* where the next element will be automatically positioned */
+    display: inline-block;       /* causes element width to shrink to fit content */
+    left: 50%;                   /* moves left side of image/element to center of parent element */
+    transform: translate(-50%);
+        
 }
